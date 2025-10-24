@@ -1,0 +1,24 @@
+{
+  "meetupDate": "2026-06-21",
+  "spotifyUrl": "https://open.spotify.com/track/YOUR_TRACK_ID",
+  "messages": [
+    {
+      "id": "1",
+      "title": "My Love",
+      "content": "These past 6 months with you have been the most wonderful journey of my life. Every moment with you is a treasure that I never take for granted. From our first day together to this very moment, you have brought so much joy, laughter, and love into my world. I cannot wait to see you again soon. You mean the world to me.",
+      "dateAdded": "2025-10-01"
+    },
+    {
+      "id": "2",
+      "title": "A Promise",
+      "content": "I promise to always be here for you, to support your dreams, and to love you with all my heart. Our connection is special and unique, and I cherish every conversation we have, every laugh we share, and every moment of intimacy we experience together. The distance between us is only temporary, but my love for you is eternal.",
+      "dateAdded": "2025-10-10"
+    },
+    {
+      "id": "3",
+      "title": "Cannot Wait",
+      "content": "I am counting down the days until I can hold you in my arms again. Every second feels like an eternity when we are apart, but knowing that soon we will be together makes my heart flutter with excitement. You are my greatest blessing, my soulmate, and my forever person. I love you more than words could ever express.",
+      "dateAdded": "2025-10-20"
+    }
+  ]
+}
